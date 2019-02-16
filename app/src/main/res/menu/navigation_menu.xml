@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="none">>
+
+        <item
+            android:id="@+id/contactus"
+            android:title="Contact Us"
+            android:icon="@drawable/contact"/>
+        <item
+            android:icon="@drawable/mission"
+            android:title="Our Mission"
+            android:id="@+id/mission"/>
+        <item
+            android:id="@+id/done"
+            android:title="What We Have Done"
+            android:icon="@drawable/check"/>
+        <item
+            android:icon="@drawable/a"
+            android:title="ASPAM Foundation"
+            android:id="@+id/aspam"/>
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">>
+
+
+    </group>
+
+
+
+
+</menu>

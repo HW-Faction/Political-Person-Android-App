@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695293924153",
+    "firebase_url": "https://ashok-goyal-app.firebaseio.com",
+    "project_id": "ashok-goyal-app",
+    "storage_bucket": "ashok-goyal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695293924153:android:9b46f23f33e22ed7",
+        "android_client_info": {
+          "package_name": "com.example.hw.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695293924153-nerrnsjtvem2lchp5k8rvmc1p7g4rh37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTcFfgh9BIBqpCrpLp13XYl4HqmO0tYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
